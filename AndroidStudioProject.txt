@@ -1,0 +1,3 @@
+Group Tipper is an Android Mobile App that calculates a tip based on total price, percentage and number of people in a group. I created the app in Android Studio in 2015.
+
+~ Wendy Parker

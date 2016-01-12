@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Group Tipper</string>
+
+    <string name="info">Tip Splitter Calculator</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <!--Can leave out Settings three dots menu if using icons on action bar -->
+    <!-- <string name="action_settings">Settings</string> -->
+
+    <string name="total">Bill Total:</string>
+    <string name="people"># of People:</string>
+    <string name="tip">Tip %:</string>
+    <string name="split">Split</string>
+    <string name="each">Each Person Tips:</string>
+    <string name="bg1">Diner</string>
+</resources>
